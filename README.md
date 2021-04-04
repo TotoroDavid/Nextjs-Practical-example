@@ -1,1 +1,1 @@
-# Nextjs-Practical-example
+En este simple proyecto voy a usar el framework de Next.js, un framework de React que nos permite poder crear aplicaciones web dinamicas combinando conceptos del backend y frontend de una manera integrada usando Server Side Rendering(SSR).
